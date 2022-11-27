@@ -1,6 +1,7 @@
 import React from 'react'
 import './Portfolio.css'
 import Weather from '../../pictures/weather-app-image.png'
+import Country from '../../pictures/Country app.jpg'
 import Profile from '../../pictures/profile-app-image.jpg'
 import Bitcoin from '../../pictures/bitcoin-wallet-app-image.jpg'
 import Sharebook from '../../pictures/sharebook-app-image.png'
@@ -15,20 +16,27 @@ const data= [
    },
    {
     id: 2,
+    image: Country,
+    title: 'Country Api',
+    github: 'https://github.com/Augustine56/MY-PROJECT',
+    demo: 'https://countrypi.netlify.app'
+   },
+   {
+    id: 3,
     image: Profile,
     title: 'Profile App',
     github: 'https://github.com/Augustine56',
     demo: 'https://weatherapi202.netlify.app'
    },
    {
-    id: 3,
+    id: 4,
     image: Bitcoin,
     title: 'Bitcoin Wallet',
     github: 'https://github.com/Augustine56',
     demo: 'https://weatherapi202.netlify.app'
    },
    {
-    id: 4,
+    id: 5,
     image: Sharebook,
     title: 'Sharebook App',
     github: 'https://github.com/Augustine56',
