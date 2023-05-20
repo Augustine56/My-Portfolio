@@ -2,7 +2,7 @@ import React from 'react'
 import './Portfolio.css'
 import Weather from '../../pictures/weather-app-image.png'
 import Country from '../../pictures/Country app.jpg'
-import Profile from '../../pictures/profile-app-image.jpg'
+import Chatgptcl from '../../pictures/Chatgpt.jpg'
 import Bitcoin from '../../pictures/bitcoin-wallet-app-image.jpg'
 import Sharebook from '../../pictures/sharebook-app-image.png'
 
@@ -23,10 +23,10 @@ const data= [
    },
    {
     id: 3,
-    image: Profile,
-    title: 'Profile App',
-    github: 'https://github.com/Augustine56',
-    demo: 'https://weatherapi202.netlify.app'
+    image: Chatgptcl,
+    title: 'BrainyAI using OpenAI',
+    github: 'https://github.com/Augustine56/Brainy.git',
+    demo: 'https://brainyai.vercel.app/'
    },
    {
     id: 4,
