@@ -13,6 +13,7 @@ gap: 15%;
 }
 .about__me-image {
   border-radius: 2rem;
+  height:106%;
   overflow: hidden;
   transform: rotate(10deg);
   transition: var(--transition);
