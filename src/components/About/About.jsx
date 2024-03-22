@@ -1,6 +1,6 @@
 import React from 'react'
 import './About.css'
-import Me from '../../pictures/mypic8.jpg'
+import Me from '../../pictures/me2.jpg'
 import {FaAward} from 'react-icons/fa'
 import {FiUsers} from 'react-icons/fi'
 import {VscNewFolder} from 'react-icons/vsc'
@@ -39,8 +39,8 @@ const About = () => {
         </article>
           </div>
           <p>
-          Hello, I'm Augustine Ifeanyi
-                        A full-stack developer from Imo, Nigeria. I enjoy building everything from small sites to rich interactive cross platform mobile/web apps. If you are a business seeking a web presence or an employer looking to hire, you can get in touch with me.
+          Hello, I'm Augustine Ifeanyi.
+                        A full-stack developer and also a forex trader from Imo, Nigeria. I enjoy trading forex and also building websites from small sites to rich interactive cross platform mobile/web apps. If you are a business seeking a web presence or an employer looking to hire or you are looking for a profitable trader to invest your funds, you can get in touch with me.
           </p>
           <a href="#contact" className="btn btn-primary">Let's Talk</a>
 

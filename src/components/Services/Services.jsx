@@ -67,7 +67,7 @@ const Services = () => {
         {/* END OF MOBILE APPLICATION */}
         <article className='service'>
           <div className='service__head'>
-            <h3>Content Creation</h3>
+            <h3>Content Creation/Forex trading</h3>
           </div>
           <ul className='service__list'>
             <li> 
@@ -84,11 +84,11 @@ const Services = () => {
             </li>
             <li> 
               <BiCheck className='service__list-icon'/>
-            <p>Create new ideas</p>
+            <p>Trade the financial market</p>
             </li>
             <li> 
               <BiCheck className='service__list-icon'/>
-            <p>Create new ideas</p>
+            <p>Trade the financial market</p>
             </li>
           </ul>
         </article>
