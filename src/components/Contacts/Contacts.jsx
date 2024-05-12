@@ -13,7 +13,7 @@ const Contacts = () => {
   const sendEmail = (e) => {
     e.preventDefault();
 
-    emailjs.sendForm('service_upsy4fo', 'template_3eokh2h', form.current, 'SC_bnHUKFpbiEh2BS')
+    emailjs.sendForm('service_htqscq5', 'template_3eokh2h', form.current, 'FV8eCzRw7ij0wzGTO')
       e.target.reset()
   };
 
